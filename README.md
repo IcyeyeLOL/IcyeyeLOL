@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on Wrestle Bet! A full Stack wrestling application to vote on your favorite wrestler.
+- 🔭 I’m currently working on getting started a non-profit!.
 - 🌱 I’m currently learning more and more SQL and Databases.
 - 👯 I’m looking to collaborate on Internship work.
 
